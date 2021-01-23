@@ -36,7 +36,7 @@ Menu after logging in, with a message indicating successful login:
 After pressing the "CAMERA" button you need to agree to use the camera 
 </p>
 <p align="center">
-otherwise  you will not be able to be redirected to it
+otherwise  you will not be able to be redirected to it.
 </p>
 <p align="center">
 and a message informing you that you didin't agree to use the camera will be displayed: 
